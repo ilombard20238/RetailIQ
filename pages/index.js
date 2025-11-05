@@ -1,3 +1,5 @@
+import Features from '../components/Features'
+
 export default function Home() {
   return (
     <main className="min-h-screen flex flex-col items-center justify-center bg-retailiq-light text-center p-8">
@@ -37,6 +39,9 @@ export default function Home() {
           than ever before.
         </p>
       </section>
+
+      {/* Features section */}
+      <Features />
     </main>
-  );
+  )
 }
