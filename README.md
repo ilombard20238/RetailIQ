@@ -1,0 +1,2 @@
+# RetailIQ
+Business startup Idea
